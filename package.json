@@ -2,7 +2,7 @@
   "name": "now-playing-profile",
   "private": true,
   "version": "1.0.0",
-  "description": "Github profile",
+  "description": "Github profile spotify now playing widget",
   "main": "index.js",
   "dependencies": {
     "faunadb": "^2.14.2",
@@ -24,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoshLmao/now-playing-profile.git"
+    "url": "git+https://github.com/qbtl/spotify-now-playing.git"
   },
   "keywords": [],
-  "author": "Nate Moore",
+  "author": "Quentin Boitel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoshLmao/now-playing-profile/issues"
+    "url": "https://github.com/qbtl/spotify-now-playing/issues"
   },
-  "homepage": "https://github.com/JoshLmao/now-playing-profile#readme",
+  "homepage": "https://github.com/qbtl/spotify-now-playing#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
