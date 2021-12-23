@@ -5,7 +5,7 @@
   "description": "Github profile spotify now playing widget",
   "main": "index.js",
   "dependencies": {
-    "faunadb": "^2.14.2",
+    "faunadb": "^4.4.1",
     "isomorphic-unfetch": "^3.0.0",
     "open": "^8.2.1",
     "querystring": "^0.2.0",
