@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.2",
-    "@types/react": "^16.9.42",
+    "@types/react": "^17.0.37",
     "@types/react-dom": "^16.9.8",
     "@vercel/node": "^1.12.1",
     "husky": "^4.2.5",
