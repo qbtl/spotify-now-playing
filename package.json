@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "faunadb": "^4.4.1",
-    "isomorphic-unfetch": "^3.0.0",
+    "isomorphic-unfetch": "^3.1.0",
     "open": "^8.2.1",
     "querystring": "^0.2.0",
     "react": "^16.13.1",
