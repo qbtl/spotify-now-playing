@@ -20,7 +20,7 @@
     "@vercel/node": "^1.14.1",
     "husky": "^4.2.5",
     "lint-staged": "^12.4.0",
-    "prettier": "^2.6.1"
+    "prettier": "^2.6.2"
   },
   "repository": {
     "type": "git",
