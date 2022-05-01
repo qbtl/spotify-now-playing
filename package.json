@@ -9,17 +9,17 @@
     "isomorphic-unfetch": "^3.0.0",
     "open": "^8.4.0",
     "querystring": "^0.2.1",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "typescript": "^4.6.4"
   },
   "devDependencies": {
     "@types/node": "^17.0.27",
-    "@types/react": "^18.0.6",
+    "@types/react": "^18.0.8",
     "@types/react-dom": "^18.0.2",
     "@vercel/node": "^1.14.1",
     "husky": "^4.2.5",
-    "lint-staged": "^12.4.0",
+    "lint-staged": "^12.4.1",
     "prettier": "^2.6.2"
   },
   "repository": {
