@@ -5,21 +5,21 @@
   "description": "Github profile spotify now playing widget",
   "main": "index.js",
   "dependencies": {
-    "faunadb": "^4.5.4",
+    "faunadb": "^4.6.0",
     "isomorphic-unfetch": "^3.0.0",
     "open": "^8.4.0",
     "querystring": "^0.2.1",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "^4.7.2"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.5",
-    "@vercel/node": "^1.15.3",
+    "@vercel/node": "^2.2.0",
     "husky": "^8.0.1",
-    "lint-staged": "^12.4.2",
+    "lint-staged": "^12.5.0",
     "prettier": "^2.6.2"
   },
   "repository": {
